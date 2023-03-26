@@ -3,7 +3,7 @@
 ### <div align="center">I'm Mustafa Mert KARPUZ, a full-time full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [aMVG](https://www.amvg.com)  
+- 🔭 I’m currently working on GroupM
   
 
 <br/>  
